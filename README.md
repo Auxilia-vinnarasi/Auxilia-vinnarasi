@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10bjLnJ-wWVBRv62rCui2PwGR4HtMjZbI/view](https://drive.google.com/file/d/10bjLnJ-wWVBRv62rCui2PwGR4HtMjZbI/view)
 
-- ⚡ Fun fact **I love to**
+- ⚡ Fun fact **I love to dance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
