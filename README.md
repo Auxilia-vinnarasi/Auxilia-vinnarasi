@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auxilia Vinnarasi.S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://auxilia-portfolio-site.netlify.app/](https://auxilia-portfolio-site.netlify.app/)
 
